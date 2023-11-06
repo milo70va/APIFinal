@@ -1,0 +1,250 @@
+{
+    "monsters": [
+      {
+        "name": "Destructor de Acero",
+        "threat_level": "0%",
+        "battles": [
+          {
+            "hero": "Saitama",
+            "victoria": "false",
+            "result": "Derrota instantánea"
+          }
+        ],
+        "mounstrific_cells": {
+          "exposed": true,
+          "mutation_status": "Mutado"
+        }
+      },
+      {
+        "name": "Garra Mortal",
+        "threat_level": "50%",
+        "battles": [
+          {
+            "hero": "Saitama",
+            "victoria": "false",
+            "result": "Derrota instantánea"
+          },
+          {
+            "hero": "Tatsumaki",
+            "victoria": "false",
+            "result": "Derrota instantánea"
+          },
+          {
+            "hero": "Atomic Samurai",
+            "victoria": "true",
+            "result": "Victoria con destreza de espada"
+          },
+          {
+            "hero": "King",
+            "victoria": "true",
+            "result": "Más situaciones cómicas"
+          }
+        ],
+        "mounstrific_cells": {
+          "exposed": true,
+          "mutation_status": "Mutado"
+        }
+      },
+      {
+        "name": "Monstruo Rumbero",
+        "threat_level": "50%",
+        "battles": [
+          {
+            "hero": "Saitama",
+            "victoria": "false",
+            "result": "Derrota instantánea"
+          },
+          {
+            "hero": "Genos",
+            "victoria": "false",
+            "result": "Derrota con destrucción total"
+          },
+          {
+            "hero": "Fubuki",
+            "victoria": "true",
+            "result": "Victoria con destrucción total"
+          },
+          {
+            "hero": "Atomic Samurai",
+            "victoria": "true",
+            "result": "Victoria con cortes precisos"
+          },
+          {
+            "hero": "Silver Fang",
+            "victoria": "false",
+            "result": "Derrota con destreza marcial"
+          },
+          {
+            "hero": "Bang",
+            "victoria": "true",
+            "result": "Victoria con maestría"
+          }
+        ],
+        "mounstrific_cells": {
+          "exposed": true,
+          "mutation_status": "Mutado"
+        }
+      },
+      {
+        "name": "Reina Arácnida",
+        "threat_level": "25%",
+        "battles": [
+          {
+            "hero": "Genos",
+            "victoria": "false",
+            "result": "Derrota con daños menores"
+          },
+          {
+            "hero": "Tatsumaki",
+            "victoria": "false",
+            "result": "Derrota aplastante"
+          },
+          {
+            "hero": "License-less Rider",
+            "victoria": "true",
+            "result": "Victoria sin esfuerzo"
+          },
+          {
+            "hero": "King",
+            "victoria": "false",
+            "result": "Derrota en desventaja"
+          }
+        ],
+        "mounstrific_cells": {
+          "exposed": true,
+          "mutation_status": "Mutado"
+        }
+      },
+      {
+        "name": "Fantasma Rojo",
+        "threat_level": "100%",
+        "battles": [
+            {
+                "hero": "Genos",
+                "victoria": "true",
+                "result": "Victoria con cortes precisos"
+            },
+            {
+                "hero": "Master Fang",
+                "victoria": "true",
+                "result": "Victoria con maestría"
+            },
+            {
+                "hero": "Bang",
+                "victoria": "true",
+                "result": "Victoria con maestría"
+            }
+
+        ],
+        "mounstrific_cells": {
+          "exposed": true,
+          "mutation_status": "Mutado"
+        }
+      },
+      {
+        "name": "Lobos de Músculo",
+        "threat_level": "66%",
+        "battles": [
+            {
+                "hero": "Mumen Rider",
+                "victoria": "true",
+                "result": "Victoria con esfuerzo"
+            },
+            {
+                "hero": "Fubuki",
+                "victoria": "true",
+                "result": "Victoria sin palabras"
+            },
+            {
+                "hero": "License-less Rider",
+                "victoria": "false",
+                "result": "Derrota con esfuerzo"
+            }
+        ],
+        "mounstrific_cells": {
+          "exposed": true,
+          "mutation_status": "Mutado"
+        }
+      },
+      {
+        "name": "Monstruo de la caja",
+        "threat_level": "50%",
+        "battles": [
+            {
+                "hero": "Mumen Rider",
+                "victoria": "true",
+                "result": "Victoria a pesar de las advertencias"
+            },
+            {
+                "hero": "License-less Rider",
+                "victoria": "false",
+                "result": "Derrota en desventaja"
+            }
+        ],
+        "mounstrific_cells": {
+          "exposed": true,
+          "mutation_status": "Mutado"
+        }
+      },
+      {
+        "name": "Dragon de las tinieblas",
+        "threat_level": "0%",
+        "battles": [
+            {
+                "hero": "Master Fang",
+                "victoria": "false",
+                "result": "Derrota en una feroz batalla"
+            },
+            {
+                "hero": "Atomic Samurai",
+                "victoria": "false",
+                "result": "Derrota con maestría"
+            },
+            {
+                "hero": "Bang",
+                "victoria": "false",
+                "result": "Derrota con maestria"
+            },
+            {
+                "hero": "King",
+                "victoria": "true",
+                "result": "Otra situacion comica"
+            }
+        ],
+        "mounstrific_cells": {
+          "exposed": true,
+          "mutation_status": "Mutado"
+        }
+      },
+      {
+        "name": "Boros",
+        "threat_level": "0%",
+        "battles": [],
+        "mounstrific_cells": {
+          "exposed": true,
+          "mutation_status": "Mutado"
+        }
+      },
+      {
+        "name": "Vaccine Man",
+        "threat_level": "0%",
+        "battles": [],
+        "mounstrific_cells": {
+          "exposed": true,
+          "mutation_status": "Mutado"
+        }
+      },
+      {
+        "name": "Sea King",
+        "threat_level": "0%",
+        "battles": [],
+        "mounstrific_cells": {
+          "exposed": true,
+          "mutation_status": "Mutado"
+        }
+      }
+    ]
+}
+  
+  
+  

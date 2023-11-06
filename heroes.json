@@ -1,0 +1,349 @@
+{
+    "heroes": [
+      {
+        "name": "Saitama",
+        "alias": "One Punch Man",
+        "rank": "Clase C",
+        "ability": "Un golpe para derrotarlos a todos",
+        "description": "Saitama es un héroe calvo y aparentemente común, pero es, de hecho, el héroe más fuerte del mundo. Puede derrotar a cualquier oponente con un solo golpe, lo que lo lleva a la búsqueda de un oponente digno de su fuerza.",
+        "battles": [
+          {
+            "monster": "Destructor de Acero",
+            "victoria": "true",
+            "result": "Victoria aplastante"
+          },
+          {
+            "monster": "Garra Mortal",
+            "victoria": "true",
+            "result": "Victoria instantánea"
+          },
+          {
+            "monster": "Monstruo Rumbero",
+            "victoria": "true",
+            "result": "Victoria en un golpe"
+          }
+        ],
+        "fans": ["Armando Laverde", "Rosa Melano", "Fulanito de Tal", "Juan Pérez"],
+        "sponsors": ["Patrocinador Estelar", "Inversionista Increíble"],
+        "residence": "Ciudad Z",
+        "phone": "+123-456-7890",
+        "favorite_video_games": ["Super Fighter X", "Infinite Combo"],
+        "favorite_foods": ["Hamburguesas", "Tacos de pescado"],
+        "heroes_at_home": ["Genos", "Fubuki", "King", "Silver Fang"],
+        "monthly_food_expenses": {
+        "total_spent": 300.50,
+        "last_month_meals": [
+            {
+            "date": "2023-10-01",
+            "restaurant": "Burger Brawl",
+            "total_cost": 45.75
+            },
+            {
+            "date": "2023-10-15",
+            "restaurant": "Sushi Supreme",
+            "total_cost": 68.25
+            },
+            {
+            "date": "2023-10-30",
+            "restaurant": "Taco Town",
+            "total_cost": 186.50
+            }
+        ]
+        },
+        "mounstrific_cells": {
+        "exposed": true,
+        "mutation_status": "No mutado"
+        }
+      },
+      {
+        "name": "Genos",
+        "alias": "Cyborg Hero",
+        "rank": "Clase A",
+        "ability": "Cíborg con múltiples habilidades",
+        "description": "Genos es un cíborg poderoso con un gran deseo de vengar la destrucción de su ciudad natal y la muerte de su familia a manos de un monstruo misterioso. Posee una variedad de habilidades cibernéticas, incluyendo cañones de energía y ráfagas de fuego.",
+        "battles": [
+          {
+            "monster": "Reina Arácnida",
+            "victoria": "true",
+            "result": "Victoria con daños menores"
+          },
+          {
+            "monster": "Fantasma Rojo",
+            "victoria": "false",
+            "result": "Derrota con daños mayores"
+          },
+          {
+            "monster": "Monstruo Rumbero",
+            "victoria": "true",
+            "result": "Victoria con destrucción total"
+          }
+        ],
+        "fans": ["Perengano Gómez", "Jane Doe", "Menganito López", "Juancito Pérez"],
+        "sponsors": ["Empresa Poderosa", "Asociación Heroica"],
+        "residence": "Ciudad Z",
+        "phone": "+987-654-3210",
+        "mounstrific_cells": {
+          "exposed": true,
+          "mutation_status": "No mutado"
+        }
+      },
+      {
+        "name": "Tatsumaki",
+        "alias": "Tornado of Terror",
+        "rank": "Clase A",
+        "ability": "Telequinesis",
+        "description": "Tatsumaki, conocida como el 'Tornado del Terror', es una heroína poderosa con el control de la telequinesis. A pesar de su pequeña estatura, es capaz de mover objetos masivos y derrotar a monstruos gigantes con facilidad.",
+        "battles": [
+          {
+            "monster": "Reina Arácnida",
+            "victoria": "true",
+            "result": "Victoria aplastante"
+          },
+          {
+            "monster": "Garra Mortal",
+            "victoria": "true",
+            "result": "Victoria instantánea"
+          },
+          {
+            "monster": "Fantasma Rojo",
+            "victoria": "false",
+            "result": "Derrota instantanea"
+          }
+        ],
+        "fans": ["King", "Fubuki", "Mumen Rider", "Armando Laverde"],
+        "sponsors": ["Empresa Poderosa", "Patrocinador Estelar"],
+        "residence": "Ciudad Z",
+        "phone": "+555-123-7890",
+        "mounstrific_cells": {
+          "exposed": false,
+          "mutation_status": "No mutado"
+        }
+      },
+      {
+        "name": "Mumen Rider",
+        "alias": "Bicyclist Hero Wanna-be",
+        "rank": "Clase C",
+        "ability": "Valentía y determinación",
+        "description": "El quiere ser como License-less Rider, pero no tiene bicicleta.",
+        "battles": [
+          {
+            "monster": "Garra Mortal",
+            "victoria": "false",
+            "result": "Derrota heroica"
+          },
+          {
+            "monster": "Lobos de Músculo",
+            "victoria": "false",
+            "result": "Derrota con esfuerzo"
+          },
+          {
+            "monster": "Monstruo de la Caja",
+            "victoria": "false",
+            "result": "Derrota a pesar de las advertencias"
+          }
+        ],
+        "fans": ["Armando Laverde", "Rosa Melano", "Saitama"],
+        "sponsors": ["Patrocinador Estelar", "Inversionista Increíble", "Empresa Poderosa"],
+        "residence": "Ciudad Z",
+        "phone": "+777-888-9999",
+        "mounstrific_cells": {
+          "exposed": false,
+          "mutation_status": "No mutado"
+        }
+      },
+      {
+        "name": "Master Fang",
+        "alias": "Master",
+        "rank": "Clase A",
+        "ability": "Técnica de artes marciales impecable",
+        "description": "Master Fang, conocido como 'Maestro', es un hábil artista marcial que ha dominado innumerables técnicas de combate. Es uno de los héroes más experimentados y respetados en la Asociación de Héroes.",
+        "battles": [
+          {
+            "monster": "Monstruo Rumbero",
+            "victoria": "true",
+            "result": "Victoria con maestría"
+          },
+          {
+            "monster": "Fantasma Rojo",
+            "victoria": "false",
+            "result": "Derrota con facilidad"
+          },
+          {
+            "monster": "Dragón de las Tinieblas",
+            "victoria": "true",
+            "result": "Victoria en una feroz batalla"
+          }
+        ],
+        "fans": ["Armando Laverde", "Rosa Melano", "Bang"],
+        "sponsors": ["Patrocinador Estelar", "Inversionista Increíble", "Empresa Poderosa"],
+        "residence": "Ciudad Z",
+        "phone": "+555-666-7777",
+        "mounstrific_cells": {
+          "exposed": false,
+          "mutation_status": "No mutado"
+        }
+      },
+      {
+        "name": "Fubuki",
+        "alias": "Blizzard of Hell",
+        "rank": "Clase B",
+        "ability": "Telequinesis psiónica",
+        "description": "Fubuki, apodada 'Blizzard of Hell', posee poderes de telequinesis psiónica y lidera su propio grupo de héroes, el Grupo Fubuki. Aunque no es de Clase S, es una heroína talentosa y ambiciosa.",
+        "battles": [
+          {
+            "monster": "Lobos de Músculo",
+            "victoria": "false",
+            "result": "Derrota sin palabras"
+          },
+          {
+            "monster": "Garra Mortal",
+            "victoria": "false",
+            "result": "Derrota sin estrategia"
+          },
+          {
+            "monster": "Monstruo Rumbero",
+            "victoria": "true",
+            "result": "Victoria con habilidades psíquicas"
+          }
+        ],
+        "fans": ["Saitama", "Genos", "King"],
+        "sponsors": ["Patrocinador Máximo", "Aliado Rico", "Sponsor Supremo"],
+        "residence": "Ciudad Z",
+        "phone": "+333-444-5555",
+        "mounstrific_cells": {
+          "exposed": false,
+          "mutation_status": "No mutado"
+        }
+      },
+      {
+        "name": "License-less Rider",
+        "alias": "Bicyclist Hero",
+        "rank": "Clase S",
+        "ability": "Valentía y determinación",
+        "description": "License-less Rider es un héroe sin habilidades sobrenaturales, pero su valentía y determinación son inquebrantables. Se enfrenta a los monstruos y villanos en su bicicleta, dispuesto a proteger la ciudad con su fuerza de voluntad.",
+        "battles": [
+          {
+            "monster": "Monstruo de la Caja",
+            "victoria": "true",
+            "result": "Victoria en desventaja"
+          },
+          {
+            "monster": "Fantasma Rojo",
+            "victoria": "true",
+            "result": "Victoria sin esfuerzo"
+          },
+          {
+            "monster": "Lobos de Músculo",
+            "victoria": "true",
+            "result": "Victoria sin manos"
+          }
+        ],
+        "fans": ["Armando Laverde", "Rosa Melano", "Saitama"],
+        "sponsors": ["Patrocinador Estelar", "Inversionista Increíble", "Empresa Poderosa"],
+        "residence": "Ciudad Z",
+        "phone": "+444-333-2222",
+        "mounstrific_cells": {
+          "exposed": false,
+          "mutation_status": "No mutado"
+        }
+      },
+      {
+        "name": "Atomic Samurai",
+        "alias": "Swordmaster Hero",
+        "rank": "Clase A",
+        "ability": "Maestro de la espada",
+        "description": "Atomic Samurai es un hábil maestro de la espada y uno de los héroes de Clase A más destacados. Puede realizar cortes extremadamente rápidos y precisos con su katana, derrotando a sus enemigos con elegancia.",
+        "battles": [
+          {
+            "monster": "Dragón de las Tinieblas",
+            "victoria": "true",
+            "result": "Victoria con maestría"
+          },
+          {
+            "monster": "Monstruo Rumbero",
+            "victoria": "true",
+            "result": "Victoria con cortes precisos"
+          },
+          {
+            "monster": "Garra Mortal",
+            "victoria": "false",
+            "result": "Derrota sin destreza de espada"
+          }
+        ],
+        "fans": ["Bang", "Fubuki", "Tatsumaki"],
+        "sponsors": ["Saitama", "Patrocinador Estelar", "Inversionista Increíble"],
+        "residence": "Ciudad Z",
+        "phone": "+777-888-9999",
+        "mounstrific_cells": {
+          "exposed": false,
+          "mutation_status": "No mutado"
+        }
+      },
+      {
+        "name": "Bang",
+        "alias": "Silver Fang",
+        "rank": "Clase A",
+        "ability": "Técnica de artes marciales legendaria",
+        "description": "Bang, también conocido como 'Silver Fang', es un maestro legendario de las artes marciales. Sus técnicas son inigualables y ha derrotado a numerosos monstruos y villanos a lo largo de los años.",
+        "battles": [
+          {
+            "monster": "Dragón de las Tinieblas",
+            "victoria": "true",
+            "result": "Victoria con maestría"
+          },
+          {
+            "monster": "Fantasma Rojo",
+            "victoria": "false",
+            "result": "Derrota con facilidad"
+          },
+          {
+            "monster": "Monstruo Rumbero",
+            "victoria": "true",
+            "result": "Victoria con destreza marcial"
+          }
+        ],
+        "fans": ["Saitama", "Genos", "Fubuki"],
+        "sponsors": ["Patrocinador Máximo", "Aliado Rico", "Sponsor Supremo"],
+        "residence": "Ciudad Z",
+        "phone": "+555-666-7777",
+        "mounstrific_cells": {
+          "exposed": false,
+          "mutation_status": "No mutado"
+        }
+      },
+      {
+        "name": "King",
+        "alias": "The Strongest Man on Earth",
+        "rank": "Clase B",
+        "ability": "Sin habilidades sobrenaturales",
+        "description": "King es un héroe sin habilidades sobrenaturales, pero su misterioso aura lo hace parecer el hombre más fuerte de la Tierra. A menudo se encuentra en situaciones cómicas y sorprendentemente escapa ileso de peligrosas situaciones.",
+        "battles": [
+          {
+            "monster": "Garra Mortal",
+            "victoria": "false",
+            "result": "Situación cómica"
+          },
+          {
+            "monster": "Dragón de las Tinieblas",
+            "victoria": "false",
+            "result": "Otra situación cómica"
+          },
+          {
+            "monster": "Reina Arácnida",
+            "victoria": "true",
+            "result": "Más situaciones cómicas"
+          }
+        ],
+        "fans": ["Saitama", "Tatsumaki", "Atomic Samurai"],
+        "sponsors": ["Mumen Rider", "License-less Rider", "Master    Fang"],
+        "residence": "Ciudad Z",
+        "phone": "+123-987-6543",
+        "mounstrific_cells": {
+          "exposed": false,
+          "mutation_status": "No mutado"
+        }
+      }           
+    ]
+}
+
+  
